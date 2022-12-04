@@ -1,5 +1,7 @@
 # Development
 
+NOTE: the images appear on my local version of the webpage, but are having trouble on the deployed version.
+
 ### Link to Deployed Website
 https://mysteryman444.github.io/developmentHW/
 
